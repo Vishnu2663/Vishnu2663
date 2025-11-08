@@ -9,12 +9,10 @@
  <br>
 
 
-  <img alt="Typing Animation"
-       src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2300&pause=900&color=7CFC00&center=true&vCenter=true&repeat=true&width=1000&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Java+Full+Stack+Developer;%E2%98%81%EF%B8%8F+DevOps+%26+Cloud+Enthusiast;%F0%9F%9B%A2%EF%B8%8F+MySQL%2C+AWS+%26+DevOps+Tools;%F0%9F%9B%A0%EF%B8%8F+Spring+Boot+%26+Web+Technologies;%F0%9F%92%A1+Continuous+Learner" />
-
-
-<br>
-
+ <img alt="Typing Animation"
+       src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=28&duration=2300&pause=900&center=true&vCenter=true&repeat=true&width=1000
+       &colorList=FF0000,00FF00,FFA500,00FFFF,FFFFFF,DDA0DD
+       &lines=👨‍💻+Java+Full+Stack+Developer;☁️+DevOps+%26+Cloud+Enthusiast;🛢️+MySQL%2C+AWS+%26+DevOps+Tools;🛠️+Spring+Boot+%26+Web+Technologies;💡+Continuous+Learner;💜+Always+Growing" />
 
 
 <br>
