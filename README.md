@@ -84,11 +84,9 @@ I'm a Java Full Stack Developer focused on building impactful digital solutions 
 - **Highlights:**  
   - Multi-container setup (`app` + `db`) with persistent volume and environment-driven config.  
   - Used healthchecks & dependency ordering for reliable startup.
-- **Repo:** _add link here_ • **Run locally:**
-  ```bash
-  docker compose up -d --build
+  
 
-  ## 📊 GitHub Statistics
+ 📊 GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vishnu2663&show_icons=true&theme=github_dark" />
