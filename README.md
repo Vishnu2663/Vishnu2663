@@ -1,6 +1,9 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#7db6ff">Vishnu Vasavan</span></h1>
-<h3 align="center">Java Full Stack Developer | DevOps & Cloud Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2400&pause=900&color=FF0000&vCenter=true&center=true&width=900&height=40&lines=👨‍💻+Java+Full+Stack+Developer;☁️+DevOps+%26+Cloud+Enthusiast;🛢️+MySQL%2C+AWS+%26+DevOps+Tools;🛠️+Spring+Boot+%26+Web+Technologies;💡+Continuous+Learner" />
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vishnu2663&style=for-the-badge" alt="profile views" />
@@ -96,7 +99,7 @@ I'm a Java Full Stack Developer focused on building impactful digital solutions 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu2663&layout=compact&theme=github_dark" />
 </p>
----
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vishnu2663&style=for-the-badge" />
 </p>
