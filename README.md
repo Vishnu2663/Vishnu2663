@@ -27,8 +27,8 @@
 
 I’m a Java Full Stack Developer who enjoys turning ideas into real, working applications. I specialize in Java, Spring Boot, MySQL, and REST APIs, and I also have practical experience with DevOps tools like Docker, Jenkins, Git, GitHub, and AWS. I focus on writing clean, readable code, designing efficient systems, and deploying applications in cloud and containerized environments.
 
-- ☁️ **Cloud & DevOps**: AWS, CI/CD with Jenkins, Docker, Git/GitHub, Apache Tomcat, Maven  
-- 💬 Ask me about: **Java, Spring, REST APIs, MySQL, CI/CD, Docker, AWS**
+- ☁️ **Cloud & DevOps Tools**: AWS, CI/CD with Jenkins, Docker, Git/GitHub, Apache Tomcat, Maven  
+- 💬 Experience on: **Java, Spring, HTML&CSS, MySQL, CI/CD, Docker, AWS**
 - 🌍 Based in **Bangalore, India**
 - ✉️ Reach me: **vishnuvasavan26@gmail.com**
 
