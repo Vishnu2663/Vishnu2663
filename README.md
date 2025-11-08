@@ -7,7 +7,11 @@
 
 <br>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=28&duration=2300&pause=900&center=true&vCenter=true&repeat=true&width=1100&colorList=FF0000,00FF00,FFA500,00FFFF,FFFFFF&lines=👨‍💻+Java+Full+Stack+Developer;☁️+DevOps+%26+Cloud+Enthusiast;🛢️+MySQL%2C+AWS+%26+DevOps+Tools;🛠️+Spring+Boot+%26+Web+Technologies;💡+Continuous+Learner" /></p>
+<p align="center">
+  <img alt="Typing Animation"
+       src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=28&duration=2200&pause=900&color=FFA500&center=true&vCenter=true&repeat=true&width=1000&lines=👨‍💻+Java+Full+Stack+Developer;☁️+DevOps+%26+Cloud+Enthusiast;🛢️+MySQL%2C+AWS+%26+DevOps+Tools;🛠️+Spring+Boot+%26+Web+Technologies;💡+Continuous+Learner" />
+</p>
+
 
 
 
