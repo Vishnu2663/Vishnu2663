@@ -5,11 +5,30 @@
 <br>
 
 
+<br>
+
 <p align="center">
-  <img
-    alt="Typing Animation"
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2300&pause=900&color=66CC66&center=true&vCenter=true&repeat=true&width=1100&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Java+Full+Stack+Developer;%E2%98%81%EF%B8%8F+DevOps+%26+Cloud+Enthusiast;%F0%9F%9B%A2%EF%B8%8F+MySQL%2C+AWS+%26+DevOps+Tools;%F0%9F%9B%A0%EF%B8%8F+Spring+Boot+%26+Web+Technologies;%F0%9F%92%A1+Continuous+Learner&v=2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2300&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=1100&lines=👨‍💻+Java+Full+Stack+Developer" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2300&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=1100&lines=☁️+DevOps+%26+Cloud+Enthusiast" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2300&pause=1000&color=FFA500&center=true&vCenter=true&repeat=true&width=1100&lines=🛢️+MySQL%2C+AWS+%26+DevOps+Tools" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2300&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=true&width=1100&lines=🛠️+Spring+Boot+%26+Web+Technologies" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2300&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=1100&lines=💡+Continuous+Learner" />
+</p>
+
+<br>
+
 
 <br>
 
