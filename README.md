@@ -87,3 +87,15 @@ I'm a Java Full Stack Developer focused on building impactful digital solutions 
 - **Repo:** _add link here_ • **Run locally:**
   ```bash
   docker compose up -d --build
+
+  ## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vishnu2663&show_icons=true&theme=github_dark" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Vishnu2663&theme=github-dark" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu2663&layout=compact&theme=github_dark" />
+</p>
+
