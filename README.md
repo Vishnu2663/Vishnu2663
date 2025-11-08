@@ -7,27 +7,8 @@
 
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2300&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=1100&lines=👨‍💻+Java+Full+Stack+Developer" />
-</p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=28&duration=2300&pause=900&center=true&vCenter=true&repeat=true&width=1100&colorList=FF0000,00FF00,FFA500,00FFFF,FFFFFF&lines=👨‍💻+Java+Full+Stack+Developer;☁️+DevOps+%26+Cloud+Enthusiast;🛢️+MySQL%2C+AWS+%26+DevOps+Tools;🛠️+Spring+Boot+%26+Web+Technologies;💡+Continuous+Learner" /></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2300&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=1100&lines=☁️+DevOps+%26+Cloud+Enthusiast" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2300&pause=1000&color=FFA500&center=true&vCenter=true&repeat=true&width=1100&lines=🛢️+MySQL%2C+AWS+%26+DevOps+Tools" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2300&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=true&width=1100&lines=🛠️+Spring+Boot+%26+Web+Technologies" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2300&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=1100&lines=💡+Continuous+Learner" />
-</p>
-
-<br>
 
 
 <br>
