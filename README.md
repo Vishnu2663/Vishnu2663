@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#7db6ff">Vishnu Vasavan</span></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2400&pause=900&color=FF0000&vCenter=true&center=true&width=900&height=40&lines=👨‍💻+Java+Full+Stack+Developer;☁️+DevOps+%26+Cloud+Enthusiast;🛢️+MySQL%2C+AWS+%26+DevOps+Tools;🛠️+Spring+Boot+%26+Web+Technologies;💡+Continuous+Learner" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2600&pause=1000&color=FF0000&center=true&vCenter=true&width=900&height=45&lines=👨‍💻+Java+Full+Stack+Developer;☁️+DevOps+%26+Cloud+Enthusiast;🛢️+MySQL%2C+AWS+%26+DevOps+Tools;🛠️+Spring+Boot+%26+Web+Technologies;💡+Continuous+Learner" alt="Typing Animation" />
 </p>
 
 
