@@ -96,4 +96,8 @@ I'm a Java Full Stack Developer focused on building impactful digital solutions 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu2663&layout=compact&theme=github_dark" />
 </p>
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vishnu2663&style=for-the-badge" />
+</p>
 
