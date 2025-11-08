@@ -85,8 +85,8 @@ I'm a Java Full Stack Developer focused on building impactful digital solutions 
   - Multi-container setup (`app` + `db`) with persistent volume and environment-driven config.  
   - Used healthchecks & dependency ordering for reliable startup.
   
-
- 📊 GitHub Statistics
+---
+📊 GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vishnu2663&show_icons=true&theme=github_dark" />
