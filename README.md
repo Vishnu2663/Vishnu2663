@@ -5,21 +5,18 @@
 <p align="center">
   <br>
 
+<br>
+
 <p align="center">
- <br>
-
-
- <img alt="Typing Animation"
+  <img alt="Typing Animation"
        src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=28&duration=2300&pause=900&center=true&vCenter=true&repeat=true&width=1000
        &colorList=FF0000,00FF00,FFA500,00FFFF,FFFFFF,DDA0DD
-       &lines=👨‍💻+Java+Full+Stack+Developer;☁️+DevOps+%26+Cloud+Enthusiast;🛢️+MySQL%2C+AWS+%26+DevOps+Tools;🛠️+Spring+Boot+%26+Web+Technologies;💡+Continuous+Learner;/>
-
+       &lines=👨‍💻+Java+Full+Stack+Developer;☁️+DevOps+%26+Cloud+Enthusiast;🛢️+MySQL%2C+AWS+%26+DevOps+Tools;🛠️+Spring+Boot+%26+Web+Technologies;💡+Continuous+Learner;💜+Always+Growing" />
+</p>
 
 <br>
 
 
-
-</p>
 
 ---
 
