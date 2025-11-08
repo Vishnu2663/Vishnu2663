@@ -2,9 +2,6 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#7db6ff">Vishnu Vasavan</span></h1>
 <!-- Typing line -->
 
-<p align="center">
-  <br>
-
 <br>
 
 <p align="center">
