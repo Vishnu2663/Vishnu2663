@@ -14,23 +14,13 @@
 
 
 
-  
-   <img src="https://komarev.com/ghpvc/?username=Vishnu2663&style=for-the-badge" alt="profile views" />
-
-   <a href="https://github.com/Vishnu2663"><img alt="stars" src="https://img.shields.io/github/stars/Vishnu2663?affiliations=OWNER&style=for-the-badge"></a>
 </p>
 
 ---
 
-## 🧭 About Me
+## 👨‍💻 About Me
 
-I'm a Java Full Stack Developer focused on building impactful digital solutions with clean code, automation, and cloud-native practices.
-
-- 🔭 **Deployed Projects**
-  - **Java Web App on EC2 + Tomcat + Maven**  
-    Built and packaged with Maven, deployed on **AWS EC2** with **Apache Tomcat**.
-  - **Dockerized Spring Boot Application**  
-    Containerized using a **Dockerfile** and orchestrated with **Docker Compose** (app + MySQL).
+I’m a Java Full Stack Developer who enjoys turning ideas into real, working applications. I specialize in Java, Spring Boot, MySQL, and REST APIs, and I also have practical experience with DevOps tools like Docker, Jenkins, Git, GitHub, and AWS. I focus on writing clean, readable code, designing efficient systems, and deploying applications in cloud and containerized environments.
 
 - ☁️ **Cloud & DevOps**: AWS, CI/CD with Jenkins, Docker, Git/GitHub, Apache Tomcat, Maven  
 - 💬 Ask me about: **Java, Spring, REST APIs, MySQL, CI/CD, Docker, AWS**
