@@ -1,10 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#7db6ff">Vishnu Vasavan</span></h1>
 <!-- Typing line -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=1000&lines=👨‍💻+Java+Full+Stack+Developer;☁️+DevOps+%26+Cloud+Enthusiast;🛢️+MySQL%2C+AWS+%26+DevOps+Tools;🔩+Spring+Boot+%26+Web+Technologies;💡+Continuous+Learner" />
-</p>
-
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=1000&lines=👨‍💻+Java+Full+Stack+Developer;☁️+DevOps+%26+Cloud+Enthusiast;🛢️+MySQL%2C+AWS+%26+DevOps+Tools;🔩+Spring+Boot+%26+Web+Technologies;💡+Continuous+Learner" /></p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vishnu2663&style=for-the-badge" alt="profile views" />
   <a href="https://github.com/Vishnu2663?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/Vishnu2663?style=for-the-badge"></a>
