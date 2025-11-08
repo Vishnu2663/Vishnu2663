@@ -1,8 +1,12 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#7db6ff">Vishnu Vasavan</span></h1>
 <!-- Typing line -->
-<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=1000&lines=👨‍💻+Java+Full+Stack+Developer;☁️+DevOps+%26+Cloud+Enthusiast;🛢️+MySQL%2C+AWS+%26+DevOps+Tools;🔩+Spring+Boot+%26+Web+Technologies;💡+Continuous+Learner" /></p>
 <p align="center">
+  <img alt="Typing Animation"
+       src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2200&pause=900&color=FF0000&center=true&vCenter=true&repeat=true&width=1000&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Java+Full+Stack+Developer;%E2%98%81%EF%B8%8F+DevOps+%26+Cloud+Enthusiast;%F0%9F%9B%A2%EF%B8%8F+MySQL%2C+AWS+%26+DevOps+Tools;%F0%9F%9B%A0%EF%B8%8F+Spring+Boot+%26+Web+Technologies;%F0%9F%92%A1+Continuous+Learner" />
+</p>
+
+  
   <img src="https://komarev.com/ghpvc/?username=Vishnu2663&style=for-the-badge" alt="profile views" />
   <a href="https://github.com/Vishnu2663?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/Vishnu2663?style=for-the-badge"></a>
   <a href="https://github.com/Vishnu2663"><img alt="stars" src="https://img.shields.io/github/stars/Vishnu2663?affiliations=OWNER&style=for-the-badge"></a>
