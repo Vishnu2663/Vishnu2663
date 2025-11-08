@@ -7,10 +7,10 @@
 
 <br>
 <p align="center">
-  <img
-    alt="Typing Animation"
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2200&pause=900&color=FFA500&center=true&vCenter=true&repeat=true&width=1000&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Java+Full+Stack+Developer;%E2%98%81%EF%B8%8F+DevOps+%28+Cloud+Enthusiast;%F0%9F%9B%A2%EF%B8%8F+MySQL%2C+AWS+%28+DevOps+Tools;%F0%9F%9B%A0%EF%B8%8F+Spring+Boot+%28+Web+Technologies;%F0%9F%92%A1+Continuous+Learner" />
+  <img alt="Typing Animation"
+       src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2300&pause=900&color=FFA500&center=true&vCenter=true&repeat=true&width=1000&lines=👨‍💻%20Java%20Full%20Stack%20Developer;%E2%98%81%EF%B8%8F%20DevOps%20%26%20Cloud%20Enthusiast;%F0%9F%9B%A2%EF%B8%8F%20MySQL%2C%20AWS%20%26%20DevOps%20Tools;%F0%9F%9B%A0%EF%B8%8F%20Spring%20Boot%20%26%20Web%20Technologies;%F0%9F%92%A1%20Continuous%20Learner" />
 </p>
+
 
 
 
