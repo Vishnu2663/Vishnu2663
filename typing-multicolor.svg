@@ -24,10 +24,10 @@
     @keyframes blink { 50% { opacity: 0; } }
   ]]></style>
   <rect width="100%" height="100%" fill="transparent"/>
-  <text x="20" y="52" class="t" fill="#1E90FF">🧑‍💻 Java Full Stack Developer</text>
-  <text x="20" y="52" class="t" fill="#FFA500">☁️ DevOps &amp; Cloud Enthusiast</text>
-  <text x="20" y="52" class="t" fill="#32CD32">🛠️ MySQL, AWS &amp; DevOps Tools</text>
-  <text x="20" y="52" class="t" fill="#FF1493">⚙️ Spring Boot &amp; Web Technologies</text>
-  <text x="20" y="52" class="t" fill="#9400D3">💡 Continuous Learner</text>
+  <text x="20" y="52" class="t" fill="#1E90FF" align="center">🧑‍💻 Java Full Stack Developer</text>
+  <text x="20" y="52" class="t" fill="#FFA500" align="center">☁️ DevOps &amp; Cloud Enthusiast</text>
+  <text x="20" y="52" class="t" fill="#32CD32" align="center">🛠️ MySQL, AWS &amp; DevOps Tools</text>
+  <text x="20" y="52" class="t" fill="#FF1493" align="center">⚙️ Spring Boot &amp; Web Technologies</text>
+  <text x="20" y="52" class="t" fill="#FF0404FF" align="center">💡 Continuous Learner</text>
   <text x="950" y="52" class="cursor">|</text>
 </svg>
