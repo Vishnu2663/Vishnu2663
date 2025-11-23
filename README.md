@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/typing-multicolor.svg" />
+  <img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/typing-multicolor.svg.txt" />
 </p>
 
 
