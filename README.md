@@ -10,7 +10,7 @@
 
 
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF3A0C&width=435&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Java+Full+Stack+Developer;%E2%98%81%EF%B8%8F+DevOps+%26+Cloud+Enthusiast;%F0%9F%9B%A0%EF%B8%8F+MySQL%2C+AWS+%26+DevOps+Tools;%E2%9A%99%EF%B8%8F+Spring+Boot+%26+Web+Technologies;%F0%9F%92%A1+Continuous+Learner)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF3A0C&width=435&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Java+Full+Stack+Developer;%E2%98%81%EF%B8%8F+DevOps+%26+Cloud+Enthusiast;%F0%9F%9B%A0%EF%B8%8F+MySQL%2C+AWS+%26+DevOps+Tools;%E2%9A%99%EF%B8%8F+Spring+Boot+%26+Web+Technologies;%F0%9F%92%A1+Continuous+Learner" alt="Typing SVG" /></a>
 </p>
 
 
