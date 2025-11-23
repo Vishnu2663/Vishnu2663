@@ -1,54 +1,51 @@
-<svg width="950" height="80" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .text { font-family: "Fira Code", monospace; font-size: 36px; font-weight: 900; }
-    @keyframes typing { from { width: 0ch; } to { width: 38ch; } }
-    @keyframes blink { 50% { border-color: transparent; } }
-  </style>
-
-  <rect width="100%" height="100%" fill="transparent"/>
-
-  <text id="line1" x="20" y="55" class="text" fill="#1E90FF"
-    style="width: 38ch; white-space: nowrap; overflow: hidden; border-right: 3px solid #1E90FF;
-    animation: typing 2.5s steps(38), blink .7s step-end infinite;">
-    🧑‍💻 Java Full Stack Developer
-  </text>
-
-  <text id="line2" x="20" y="55" class="text" fill="#FFA500"
-    visibility="hidden">
-    ☁️ DevOps & Cloud Enthusiast
-  </text>
-
-  <text id="line3" x="20" y="55" class="text" fill="#32CD32"
-    visibility="hidden">
-    🛠️ MySQL, AWS & DevOps Tools
-  </text>
-
-  <text id="line4" x="20" y="55" class="text" fill="#FF1493"
-    visibility="hidden">
-    ⚙️ Spring Boot & Web Technologies
-  </text>
-
-  <text id="line5" x="20" y="55" class="text" fill="#9400D3"
-    visibility="hidden">
-    💡 Continuous Learner
-  </text>
-
-  <script>
-    const lines = [
-      document.getElementById("line1"),
-      document.getElementById("line2"),
-      document.getElementById("line3"),
-      document.getElementById("line4"),
-      document.getElementById("line5")
-    ];
-
-    let i = 0;
-    function show() {
-      lines.forEach(l => l.setAttribute("visibility", "hidden"));
-      lines[i].setAttribute("visibility", "visible");
-      i = (i + 1) % lines.length; // Loop forever
-      setTimeout(show, 2700);
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="80" viewBox="0 0 1000 80" role="img" aria-label="Java Full Stack, DevOps & Cloud, MySQL AWS DevOps, Spring Boot, Continuous Learner">
+  <style><![CDATA[
+    .text {
+      font-family: "Fira Code", monospace;
+      font-size: 30px;
+      font-weight: 700;
     }
-    show();
-  </script>
+
+    /* base for all lines */
+    .line {
+      opacity: 0;
+      animation: show 10s linear infinite;
+    }
+
+    .line1 { animation-delay: 0s; }
+    .line2 { animation-delay: 2s; }
+    .line3 { animation-delay: 4s; }
+    .line4 { animation-delay: 6s; }
+    .line5 { animation-delay: 8s; }
+
+    /* each line visible for ~2s, then hidden */
+    @keyframes show {
+      0%, 16%   { opacity: 1; }
+      20%, 100% { opacity: 0; }
+    }
+
+    /* blinking cursor on the right */
+    .cursor {
+      font-family: "Fira Code", monospace;
+      font-size: 30px;
+      font-weight: 700;
+      fill: #ffffff;
+      animation: blink 1s step-end infinite;
+    }
+
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+  ]]></style>
+
+  <rect width="1000" height="80" fill="transparent" />
+
+  <text x="20" y="52" class="text line line1" fill="#1E90FF">🧑‍💻 Java Full Stack Developer</text>
+  <text x="20" y="52" class="text line line2" fill="#FFA500">☁️ DevOps &amp; Cloud Enthusiast</text>
+  <text x="20" y="52" class="text line line3" fill="#32CD32">🛠️ MySQL, AWS &amp; DevOps Tools</text>
+  <text x="20" y="52" class="text line line4" fill="#FF1493">⚙️ Spring Boot &amp; Web Technologies</text>
+  <text x="20" y="52" class="text line line5" fill="#9400D3">💡 Continuous Learner</text>
+
+  <!-- cursor roughly at the end of the line -->
+  <text x="900" y="52" class="cursor">|</text>
 </svg>
