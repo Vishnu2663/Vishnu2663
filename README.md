@@ -6,11 +6,11 @@
 <br>
 
 <br>
-
+<div align="center>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vishnu2663/Vishnu2663/main/typing-multicolor.svg" />
 </p>
-
+</div>
 
 
 
