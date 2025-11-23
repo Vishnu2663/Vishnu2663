@@ -1,0 +1,54 @@
+<svg width="950" height="80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font-family: "Fira Code", monospace; font-size: 36px; font-weight: 900; }
+    @keyframes typing { from { width: 0ch; } to { width: 38ch; } }
+    @keyframes blink { 50% { border-color: transparent; } }
+  </style>
+
+  <rect width="100%" height="100%" fill="transparent"/>
+
+  <text id="line1" x="20" y="55" class="text" fill="#1E90FF"
+    style="width: 38ch; white-space: nowrap; overflow: hidden; border-right: 3px solid #1E90FF;
+    animation: typing 2.5s steps(38), blink .7s step-end infinite;">
+    🧑‍💻 Java Full Stack Developer
+  </text>
+
+  <text id="line2" x="20" y="55" class="text" fill="#FFA500"
+    visibility="hidden">
+    ☁️ DevOps & Cloud Enthusiast
+  </text>
+
+  <text id="line3" x="20" y="55" class="text" fill="#32CD32"
+    visibility="hidden">
+    🛠️ MySQL, AWS & DevOps Tools
+  </text>
+
+  <text id="line4" x="20" y="55" class="text" fill="#FF1493"
+    visibility="hidden">
+    ⚙️ Spring Boot & Web Technologies
+  </text>
+
+  <text id="line5" x="20" y="55" class="text" fill="#9400D3"
+    visibility="hidden">
+    💡 Continuous Learner
+  </text>
+
+  <script>
+    const lines = [
+      document.getElementById("line1"),
+      document.getElementById("line2"),
+      document.getElementById("line3"),
+      document.getElementById("line4"),
+      document.getElementById("line5")
+    ];
+
+    let i = 0;
+    function show() {
+      lines.forEach(l => l.setAttribute("visibility", "hidden"));
+      lines[i].setAttribute("visibility", "visible");
+      i = (i + 1) % lines.length; // Loop forever
+      setTimeout(show, 2700);
+    }
+    show();
+  </script>
+</svg>
