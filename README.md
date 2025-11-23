@@ -13,9 +13,10 @@
   <img
     alt="Typing Animation"
     src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=40&duration=2200&pause=900&center=true&vCenter=true&repeat=true&width=1000
-    &color=1E90FF,FFA500,32CD32,FF1493,9400D3
-    &lines=🧑‍💻+Java+Full+Stack+Developer;☁️+DevOps+%26+Cloud+Enthusiast;🛠️+MySQL%2C+AWS+%26+DevOps+Tools;⚙️+Spring+Boot+%26+Web+Technologies;💡+Continuous+Learner" />
+    &colorList=1E90FF,FFA500,32CD32,FF1493,9400D3
+    &lines=🧑‍💻+Java+Full+Stack+Developer;☁️+DevOps+%26+Cloud+Enthusiast;🛠️+MySQL%2C+AWS+%26+DevOps+Tools;⚙️+Spring+Boot+%26+Web+Technologies;💡+Continuous+Learner"/>
 </p>
+
 
 
 
