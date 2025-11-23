@@ -7,11 +7,10 @@
 
 <br>
 
-
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/typing-multicolor.svg" />
+  <img src="https://raw.githubusercontent.com/Vishnu2663/Vishnu2663/main/typing-multicolor.svg" />
 </p>
+
 
 
 
