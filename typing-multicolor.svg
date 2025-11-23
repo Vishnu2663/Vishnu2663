@@ -28,6 +28,6 @@
   <text x="20" y="52" class="t" fill="#FFA500" align="center">☁️ DevOps &amp; Cloud Enthusiast</text>
   <text x="20" y="52" class="t" fill="#32CD32" align="center">🛠️ MySQL, AWS &amp; DevOps Tools</text>
   <text x="20" y="52" class="t" fill="#FF1493" align="center">⚙️ Spring Boot &amp; Web Technologies</text>
-  <text x="20" y="52" class="t" fill="#FF0404FF" align="center">💡 Continuous Learner</text>
+  <text x="20" y="55" class="t" fill="#FF0404FF" align="center">💡 Continuous Learner</text>
   <text x="950" y="52" class="cursor">|</text>
 </svg>
