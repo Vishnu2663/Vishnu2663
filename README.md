@@ -71,6 +71,7 @@ I’m a Java Full Stack Developer who enjoys turning ideas into real, working ap
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white">
+  <img alt="Node.Js" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
 </p>
