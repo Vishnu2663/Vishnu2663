@@ -199,15 +199,6 @@ I focus on writing **clean, readable and maintainable code**, designing efficien
 
 <br>
 
-<!-- ========================================================= -->
-<!--                    GITHUB TROPHIES                        -->
-<!-- ========================================================= -->
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishnu2663&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
 
 <br>
 
