@@ -59,28 +59,29 @@ I focus on writing clean, readable code, designing efficient systems, and deploy
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,dynamodb&perline=10)](https://skillicons.dev)
 
 
-### ☁️ Cloud & DevOps
+# ☁️ Cloud & DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,gitlab,nginx,apache,tomcat,maven&perline=10)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,gitlab,nginx,apache,tomcat,maven&theme=dark" />
 
+<br>
 
-### 🛠️ Tools & Platforms
+# 🛠️ Tools & Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=postman,vercel,canva&perline=10)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=postman,vercel,canva&theme=dark" />
 
+<br>
 
+# ✍️ Developer Quote
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
+>
+> — Martin Fowler
 
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Vishnu2663&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
----
 
 [![](https://komarev.com/ghpvc/?username=Vishnu2663&icon=0&color=0)](https://visitcount.itsvg.in)
 
