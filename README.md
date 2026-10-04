@@ -69,19 +69,6 @@ I focus on writing clean, readable code, designing efficient systems, and deploy
 [![My Skills](https://skillicons.dev/icons?i=postman,vercel,canva&perline=10)](https://skillicons.dev)
 
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=Vishnu2663&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=Vishnu2663&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vishnu2663&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Vishnu2663&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 ### ✍️ Random Dev Quote
 
@@ -122,9 +109,5 @@ I focus on writing clean, readable code, designing efficient systems, and deploy
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu2663&layout=compact&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vishnu2663&style=for-the-badge" />
 </p>
 
