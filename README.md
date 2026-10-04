@@ -21,63 +21,83 @@
 
 
 
+# 💫 About Me:
+
+I’m a Backend Developer who enjoys turning ideas into real, working applications. I specialize in Java, Node.js, PostgreSQL, MySQL, and Web Technologies, with practical experience in DevOps tools like Docker, Jenkins, Git, GitHub, and AWS.
+
+I focus on writing clean, readable code, designing efficient systems, and deploying applications in cloud and containerized environments.
+
+☁️ **Cloud & DevOps:** AWS, CI/CD with Jenkins, Docker, Git/GitHub, Apache Tomcat, Maven  
+💬 **Experience:** Java, Spring Boot, Node.js, PostgreSQL, MySQL, HTML, CSS, CI/CD, Docker, AWS  
+🌍 **Based in:** Bangalore, India  
+✉️ **Reach me:** vishnuvasavan26@gmail.com
+
+
+# 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishnu__26__)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/v-vishnu-vish260623)
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishnuvasavan26@gmail.com)
+
+
+# 💻 Tech Stack:
+
+### 👨‍💻 Languages & Backend
+
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,nodejs,spring,express&perline=10)](https://skillicons.dev)
+
+
+### 🌐 Web Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,graphql&perline=10)](https://skillicons.dev)
+
+
+### 🗄️ Databases
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,dynamodb&perline=10)](https://skillicons.dev)
+
+
+### ☁️ Cloud & DevOps
+
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,gitlab,nginx,apache,tomcat,maven&perline=10)](https://skillicons.dev)
+
+
+### 🛠️ Tools & Platforms
+
+[![My Skills](https://skillicons.dev/icons?i=postman,vercel,canva&perline=10)](https://skillicons.dev)
+
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.shion.dev/api?username=Vishnu2663&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=Vishnu2663&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vishnu2663&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Vishnu2663&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Vishnu2663&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 ---
 
-## 👨‍💻 About Me
+[![](https://komarev.com/ghpvc/?username=Vishnu2663&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I’m a Java Full Stack Developer who enjoys turning ideas into real, working applications. I specialize in Java, Spring Boot, MySQL, and Web Technologies, and I also have practical experience with DevOps tools like Docker, Jenkins, Git, GitHub, and AWS. I focus on writing clean, readable code, designing efficient systems, and deploying applications in cloud and containerized environments.
-
-- ☁️ **Cloud & DevOps Tools**: AWS, CI/CD with Jenkins, Docker, Git/GitHub, Apache Tomcat, Maven  
-- 💬 Experience on: **Java, Spring, HTML&CSS, MySQL, CI/CD, Docker, AWS**
-- 🌍 Based in **Bangalore, India**
-- ✉️ Reach me: **vishnuvasavan26@gmail.com**
-
----
-
-## 🛠️ Skills & Tools
-
-<p>
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-
-  <!-- Backend & Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring / Spring Boot"/>
-
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-
-  <!-- DevOps & Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" title="Jenkins"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" title="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="Apache Tomcat (Apache)"/>
-
-  <!-- Build, SCM -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" title="Maven"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-</p>
-
-<!-- Quick badges row -->
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white">
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
-  <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white">
-  <img alt="Tomcat" src="https://img.shields.io/badge/Tomcat-F8DC75?logo=apachetomcat&logoColor=000">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
-</p>
-
----
-
-## 🚀 Featured Projects
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## 🚀 Featured Projects
 
 ### 1) Java Web App — **EC2 + Tomcat + Maven**
 - **Stack:** Java, JSP/Servlets, Maven, Apache Tomcat, AWS EC2  
