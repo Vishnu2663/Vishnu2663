@@ -10,6 +10,9 @@
   <img src="https://raw.githubusercontent.com/Vishnu2663/Vishnu2663/main/typing-multicolor.svg" />
 </p>
 
+<p align="center">
+  <b>Backend Developer | Java | Node.js | PostgreSQL | AWS | DevOps</b>
+</p>
 
 <br>
 
@@ -83,13 +86,21 @@ I focus on writing **clean, readable and maintainable code**, designing efficien
 ### ☁️ Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,gitlab,nginx,apache,tomcat,maven&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,gitlab,nginx,apache&theme=dark" />
+</p>
+
+<p>
+  <b>Apache Tomcat</b> • <b>Maven</b> • <b>CI/CD</b> • <b>AWS EC2</b> • <b>Docker Compose</b>
 </p>
 
 ### 🛠️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,vercel,canva&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postman,vercel&theme=dark" />
+</p>
+
+<p>
+  <b>Canva</b> • <b>VS Code</b> • <b>WinSCP</b> • <b>MobaXterm</b>
 </p>
 
 <br>
@@ -102,17 +113,17 @@ I focus on writing **clean, readable and maintainable code**, designing efficien
 
 <p align="center">
 
-💡 Idea  
+💡 Idea
 &nbsp; → &nbsp;
-💻 Development  
+💻 Development
 &nbsp; → &nbsp;
-🧪 Testing  
+🧪 Testing
 &nbsp; → &nbsp;
-🐳 Docker  
+🐳 Docker
 &nbsp; → &nbsp;
-⚙️ CI/CD  
+⚙️ CI/CD
 &nbsp; → &nbsp;
-☁️ AWS  
+☁️ AWS
 &nbsp; → &nbsp;
 🚀 Deployment
 
@@ -196,9 +207,6 @@ I focus on writing **clean, readable and maintainable code**, designing efficien
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu2663&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-
-<br>
-
 
 <br>
 
