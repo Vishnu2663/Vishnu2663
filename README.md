@@ -10,9 +10,6 @@
   <img src="https://raw.githubusercontent.com/Vishnu2663/Vishnu2663/main/typing-multicolor.svg" />
 </p>
 
-<p align="center">
-  <b>Backend Developer | Java | Node.js | PostgreSQL | AWS | DevOps</b>
-</p>
 
 <br>
 
