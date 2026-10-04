@@ -5,6 +5,9 @@
 <h1 align="center">
   👋 Hi, I'm <span style="color:#7db6ff">Vishnu Vasavan</span>
 </h1>
+<br>
+<br>
+<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vishnu2663/Vishnu2663/main/typing-multicolor.svg" />
