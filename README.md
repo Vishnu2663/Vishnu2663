@@ -189,10 +189,7 @@ I focus on writing **clean, readable and maintainable code**, designing efficien
 - Used Docker Compose for multi-container orchestration
 - Configured persistent database volumes
 - Used environment variables for application configuration
-- Added health checks for reliable container startup
-
-🔗 **Repository:** _Add repository link_  
-🌐 **Live Demo:** _Add live URL / demo information_
+- Added health checks for reliable container 
 
 <br>
 
